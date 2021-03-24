@@ -9,7 +9,7 @@ function pull(c_Name, c_Realm) {
         return "Invalid Realm"
       }
       
-      var apikey = "USzClAwPh59lFwNDkbT6A9oBgcKjnvWxMG"
+      var apikey = "xxxxxx"
       var utfoffset = '-8'
       var timestring = "Server Time"
       var region = "us"
